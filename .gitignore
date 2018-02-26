@@ -171,3 +171,6 @@ tags
 
 # direnv
 .envrc
+
+# python lsp server directory
+.ropeproject/
